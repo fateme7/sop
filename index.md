@@ -1,37 +1,5 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fateme7/sop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fateme7/sop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+من فاطمه ودیعی هستم . در یکی از روزهای تیرماه تابستان وقتی که راهنمایی را به اتمام رسانده بودم.از آنجایی که همیشه نمرات خوب میگرفتم و در ریاضی به بچه ها کمک میکردم و از حل مسائل ریاضی خوشم می آمد به رشته ریاضی رفتم و تحصیل کردم . به اداره پست رفتم ووقتی می دیدم که کارکنان آنجا با کامپیوتر کارهایشان را انجام می دهند بسیار خوشم آمد و از آنجایی که در مدرسه کارهای مربوط به کامپیوتر را انجام میدادم علاقم بیشتر شد و توانایی انتخاب چنین رشته ایی را در خودم دیدم.تصمیم گرفتم رشته ایی را انتخاب کنم که در آن کامپیوتر وجود داشته باشد.روز به روز با کامپیوتر بیشتر آشنا می شدم و چون انجام کارها در زمان کمتری انجام می شود باعث شد من در تصمیم گیری ام مصمم تر شوم.                            
+و اکنون در حال حاضر وقتی می بینم که می توانم کارهایی چون درست کردن پاورـ  ورد ـو از همه مهم تر برنامه نویسی انجام می دهم بسیارخوشحال می شوم چون این ها چیزهایی هستند که در طول تحصیل و زندگی به آن نیاز داریم.
+و همیشه در تکاپوی آن هستم که بتوانم در زمینه رشته خودم اونقدر پیشرفت کنم که برنامه های گوناگونی را بنویسم و سایت هایی را ایجاد کنم که بسیاری از مردمان کشورمان به راحتی و در کمترین زمان کارهایشان را به انجام برسانند و برنامه نویس بسیار ماهری شوم.انتخاب دانشگاه پیام نور من به این علت است که می توان در مواقعی که موقعیت حضور در کلاس را نداریم در کلاس نباشیم و مشکلی ایجاد نشود. و اینکه یکی دیگر از دلایل انتخاب این دانشگاه خواندن همه مطالب کتاب و یادگیری آن است.و مدرکی که به ما می دهد بسیار معتبر است و امیدوارم همه ما به خواسته هامون برسیم و موفق شویم
